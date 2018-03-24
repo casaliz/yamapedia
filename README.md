@@ -20,30 +20,30 @@ directory
   ┣　model_structure.json
   ┣　model.h5
   ┣　test_images/
-  ┃   ┣　test1.png
-  ┃   ┣  test2.png
-  ┃   ┃      ︙
-  ┃   ┗  test10.png
+  ┃     ┣　test1.png
+  ┃     ┣  test2.png
+  ┃     ┃      ︙
+  ┃     ┗  test10.png
   ┗　10types_images/
-      ┣　hakusansyajin
-      ┃   ┣　.png
-      ┃   ┃    ︙
-      ┃   ┗　.png
-      ┣　hakusansyakunage
-      ┃   ┣　.png
-      ┃   ┃    ︙
-      ┃   ┗　.png
-      ┃        ︙
-      ┃        ︙
-      ┃        ︙
-      ┣　iwametsumekusa
-      ┃   ┣　.png
-      ┃   ┃    ︙
-      ┃   ┗　.png
-      ┗ 　iwaougi
-          ┣　.png
-          ┃    ︙
-          ┗　.png
+        ┣　hakusansyajin
+        ┃       ┣　.png
+        ┃       ┃    ︙
+        ┃       ┗　.png
+        ┣　hakusansyakunage
+        ┃       ┣　.png
+        ┃       ┃    ︙
+        ┃       ┗　.png
+        ┃            ︙
+        ┃            ︙
+        ┃            ︙
+        ┣　iwametsumekusa
+        ┃       ┣　.png
+        ┃       ┃    ︙
+        ┃       ┗　.png
+        ┗ 　iwaougi
+                ┣　.png
+                ┃    ︙
+                ┗　.png
 
 ```
   
