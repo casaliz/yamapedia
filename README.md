@@ -7,14 +7,23 @@
 
 <directory>
 10types_test/
+  
   ┣　train.py
+  
   ┣　check.py
+  
   ┣　model_structure.json
+  
   ┣　model.h5
+  
   ┣　test1.png
+  
   ┣  test2.png
+  
   ┣  test3.png
+  
   ┗　10types_images/
+  
       ┣　hakusansyajin
       ┃   ┣　.png
       ┃   ┃    ︙
