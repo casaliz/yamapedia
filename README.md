@@ -5,7 +5,7 @@
 - tensorflow 1.6.0
 - Keras 2.1.5
 
-#directory
+###directory
   
 10types_test/
   
