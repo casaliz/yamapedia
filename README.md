@@ -8,7 +8,7 @@ version
 
 directory
 ----------------------------------
-/
+```
 10types_test/
   ┣　train.py
   ┃
@@ -44,5 +44,6 @@ directory
           ┣　.png
           ┃    ︙
           ┗　.png
-  
+
+```
   
