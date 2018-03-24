@@ -1,11 +1,11 @@
 # yamapedia
 
-<version>
+#version
 - Python 3.6.3（Anacondaでインストール）
 - tensorflow 1.6.0
 - Keras 2.1.5
 
-<directory>
+#directory
   
 10types_test/
   
@@ -45,5 +45,4 @@
           ┃    ︙
           ┗　.png
   
-  <>
   
