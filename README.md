@@ -1,4 +1,11 @@
 # yamapedia
+ディープラーニングを使って10種類の花画像を分類する。
+以下のフォルダ構成でterminalから
+```
+> python check.py test1.png
+
+```
+でtest1の種類を推定する。
 
 version
 ----------------------------------
@@ -10,6 +17,7 @@ directory
 ----------------------------------
 ```
 10types_test/
+  ┃
   ┣　train.py
   ┃
   ┣　check.py
