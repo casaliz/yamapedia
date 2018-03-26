@@ -7,7 +7,7 @@
 
 version
 ----------------------------------
-- Python 3.6.3（Anacondaでインストール）
+- Python 3.6.3
 - tensorflow 1.6.0
 - Keras 2.1.5
 
